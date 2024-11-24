@@ -1,0 +1,105 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bateria Acústica</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            margin: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            padding: 10px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Bateria Acústica</h1>
+    <nav>
+        <a href="#introducao">Introdução</a>
+        <a href="#partes">Partes da Bateria</a>
+        <a href="#dicas">Dicas para Iniciantes</a>
+        <a href="#estilos">Estilos Musicais</a>
+    </nav>
+</header>
+
+<section id="introducao">
+    <h2>Introdução</h2>
+    <p>A bateria acústica é um dos instrumentos mais essenciais em várias formas de música. Ela fornece a base rítmica e energética necessária para muitas bandas e estilos musicais. Seja no rock, jazz, pop ou samba, a bateria é fundamental para manter o tempo e a dinâmica da música.</p>
+</section>
+
+<section id="partes">
+    <h2>Partes da Bateria</h2>
+    <ul>
+        <li><strong>Caixa (Snare Drum)</strong>: Produz um som agudo e é crucial para a maioria dos ritmos.</li>
+        <li><strong>Tom-Tom (Tom Drums)</strong>: Usados para criar melodias e variações rítmicas.</li>
+        <li><strong>Bumbo (Bass Drum)</strong>: Produz um som profundo e é tocado com o pé.</li>
+        <li><strong>Pratos (Cymbals)</strong>: Incluem pratos de choque e de hi-hat, adicionando textura ao som.</li>
+        <li><strong>Pedal de Bumbo (Bass Pedal)</strong>: Conecta-se ao bumbo e permite tocá-lo com o pé.</li>
+    </ul>
+    <img src="https://example.com/imagem-da-bateria.jpg" alt="Imagem de uma bateria acústica">
+</section>
+
+<section id="dicas">
+    <h2>Dicas para Iniciantes</h2>
+    <p>Se você está começando a tocar bateria, aqui estão algumas dicas úteis:</p>
+    <ul>
+        <li>Pratique regularmente para desenvolver sua técnica.</li>
+        <li>Comece com ritmos simples antes de avançar para padrões mais complexos.</li>
+        <li>Escute diferentes estilos musicais para entender como a bateria se encaixa em cada gênero.</li>
+        <li>Mantenha sua bateria sempre afinada e em boas condições para obter o melhor som possível.</li>
+    </ul>
+</section>
+
+<section id="estilos">
+    <h2>Estilos Musicais com Bateria Acústica</h2>
+    <p>A bateria acústica é versátil e pode ser encontrada em diversos estilos musicais. Aqui estão alguns dos mais populares:</p>
+    <ul>
+        <li><strong>Rock:</strong> Caracterizado por batidas fortes e dinâmicas.</li>
+        <li><strong>Jazz:</strong> Utiliza ritmos complexos e improvisação.</li>
+        <li><strong>Samba:</strong> Um estilo brasileiro que incorpora ritmos animados e sincopados.</li>
+        <li><strong>Pop:</strong> Focado em melodias cativantes e batidas dançantes.</li>
+    </ul>
+</section>
+
+<footer>
+    &copy; 2024 Bateria Acústica. Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
+```
